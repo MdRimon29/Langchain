@@ -31,3 +31,6 @@ scikit-learn
 # Extra
 grandalf
 bs4
+wikipedia
+chromadb
+faiss-cpu
